@@ -33,6 +33,11 @@ return array(
     'Symfony\\Component\\Debug\\' => array($vendorDir . '/symfony/debug'),
     'Symfony\\Component\\CssSelector\\' => array($vendorDir . '/symfony/css-selector'),
     'Symfony\\Component\\Console\\' => array($vendorDir . '/symfony/console'),
+<<<<<<< HEAD
+=======
+    'Spatie\\Fractalistic\\' => array($vendorDir . '/spatie/fractalistic/src'),
+    'Spatie\\Fractal\\' => array($vendorDir . '/spatie/laravel-fractal/src'),
+>>>>>>> 0e2ad1f914f7b83fbe599018bc3d4ac533a07f3a
     'Ramsey\\Uuid\\' => array($vendorDir . '/ramsey/uuid/src'),
     'Psy\\' => array($vendorDir . '/psy/psysh/src'),
     'Psr\\SimpleCache\\' => array($vendorDir . '/psr/simple-cache/src'),
@@ -43,6 +48,10 @@ return array(
     'Opis\\Closure\\' => array($vendorDir . '/opis/closure/src'),
     'NunoMaduro\\Collision\\' => array($vendorDir . '/nunomaduro/collision/src'),
     'Monolog\\' => array($vendorDir . '/monolog/monolog/src/Monolog'),
+<<<<<<< HEAD
+=======
+    'League\\Fractal\\' => array($vendorDir . '/league/fractal/src'),
+>>>>>>> 0e2ad1f914f7b83fbe599018bc3d4ac533a07f3a
     'League\\Flysystem\\' => array($vendorDir . '/league/flysystem/src'),
     'Laravel\\Tinker\\' => array($vendorDir . '/laravel/tinker/src'),
     'JakubOnderka\\PhpConsoleHighlighter\\' => array($vendorDir . '/jakub-onderka/php-console-highlighter/src'),
